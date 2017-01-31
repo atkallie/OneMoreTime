@@ -12,6 +12,7 @@
 		BAA7EBF61DE00E74004458CC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAA7EBF41DE00E74004458CC /* Main.storyboard */; };
 		BAA7EBF81DE00E74004458CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAA7EBF71DE00E74004458CC /* Assets.xcassets */; };
 		BAA7EBFB1DE00E74004458CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAA7EBF91DE00E74004458CC /* LaunchScreen.storyboard */; };
+		BAA7EC031DE02722004458CC /* labpuppy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BAA7EC021DE02722004458CC /* labpuppy.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BAA7EBF71DE00E74004458CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BAA7EBFA1DE00E74004458CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BAA7EBFC1DE00E74004458CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BAA7EC021DE02722004458CC /* labpuppy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = labpuppy.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				BAA7EBF01DE00E74004458CC /* AppDelegate.swift */,
 				BAA7EBF21DE00E74004458CC /* ViewController.swift */,
 				BAA7EBF41DE00E74004458CC /* Main.storyboard */,
+				BAA7EC021DE02722004458CC /* labpuppy.jpg */,
 				BAA7EBF71DE00E74004458CC /* Assets.xcassets */,
 				BAA7EBF91DE00E74004458CC /* LaunchScreen.storyboard */,
 				BAA7EBFC1DE00E74004458CC /* Info.plist */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BAA7EC031DE02722004458CC /* labpuppy.jpg in Resources */,
 				BAA7EBFB1DE00E74004458CC /* LaunchScreen.storyboard in Resources */,
 				BAA7EBF81DE00E74004458CC /* Assets.xcassets in Resources */,
 				BAA7EBF61DE00E74004458CC /* Main.storyboard in Resources */,
